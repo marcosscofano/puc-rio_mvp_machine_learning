@@ -2,7 +2,7 @@
 
 Repositório com o objetivo de armazenar os artefatos coletados ou desenvolvidos para o MVP da sprint de Machine Learning & Analytics.
 
-##MVP - Minimun Viable Product - Não Comparecimento em Consultas Médicas
+##MVP - Minimum Viable Product - Não Comparecimento em Consultas Médicas
 Instituição: Pontifícia Universidade Católica do Rio de Janeiro - PUC-Rio
 
 Aluno: Marcos Pasquale Vieira Scofano
